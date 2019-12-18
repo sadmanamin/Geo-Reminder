@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewGeo</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="geofence_transition_notification_text">
+        Click notification to return to app
+    </string>
+</resources>

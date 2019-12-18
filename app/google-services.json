@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31818247787",
+    "firebase_url": "https://newgeo-119dc.firebaseio.com",
+    "project_id": "newgeo-119dc",
+    "storage_bucket": "newgeo-119dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31818247787:android:c3d4cb29ba787eb4094b2e",
+        "android_client_info": {
+          "package_name": "com.example.newgeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31818247787-itbr8fr6rcjh6c88j5g3b6h7qq8un6fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newgeo",
+            "certificate_hash": "7dd0d97827163fd9499da7f5eadb4aa689b46c8f"
+          }
+        },
+        {
+          "client_id": "31818247787-5e8vm0utnqbr46c338k9v1dmsurdfhsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS_2UdN1Ujoux9Ew8moRt5OQYYfT8Z220"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31818247787-5e8vm0utnqbr46c338k9v1dmsurdfhsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
